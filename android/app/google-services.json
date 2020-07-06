@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "670189886181",
+    "firebase_url": "https://flash-chat-63271.firebaseio.com",
+    "project_id": "flash-chat-63271",
+    "storage_bucket": "flash-chat-63271.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670189886181:android:a6cedb38f5185aad17920c",
+        "android_client_info": {
+          "package_name": "co.adamprabowo.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670189886181-lkph7e5ndmunv6uod74rvq45b65u1eeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3vVSDY4YYraIq4Z-HTv-5M0JPunzcwZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670189886181-lkph7e5ndmunv6uod74rvq45b65u1eeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
